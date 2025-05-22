@@ -1,0 +1,1099 @@
+*
+{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+ul
+{
+list-style: none;
+}
+.flex
+{
+    display: flex;
+}
+.jc
+{
+    justify-content: space-between;
+}
+.ai
+{
+    align-items: center;
+}
+.gap
+{
+    gap: 30px;
+}
+.con
+{
+    width: 1200px; margin: auto;
+}
+header
+{
+    
+    width: 100%;
+    height: 650px;
+    border: solid red;
+   
+   
+}
+.img
+{
+    position: relative;
+    width: 100%;
+    height: 650px;
+}
+.a
+{
+    position: absolute;
+    right: 45%;
+    top: 5%;
+}
+section
+{
+    background: black;
+    width: 76%;
+    height: 80px;
+    position: absolute;
+    left: 12%;
+    top: 20%;
+    right: 12%;
+}
+.left
+{
+    color: rgb(242, 238, 238);
+    padding: 30px;
+    width: 70%;
+}
+.right
+{
+    width: 30%;
+    color: rgb(248, 246, 246);
+    padding: 30px;
+}
+.aad
+{
+    position: absolute;
+    left: 43%;
+    bottom: 40%;
+    color: white;
+}
+.aae
+{
+    position: absolute;
+    color: yellow;
+    left: 46%;
+    bottom: 30%;
+   
+}
+.box
+{
+    position: relative;
+    background: white;
+    width: 100%;
+    height: 600px;
+    border: solid red;
+}
+.aac
+{
+    position: absolute;
+    left: 45%;
+    top: 0%;
+}
+.b
+{
+    position: absolute;
+    top: 5%;
+    left: 40%;
+    color: #9f4103;
+}
+.c 
+{
+    position: absolute;
+    left: 45%;
+    top: 18%;
+}
+.d
+{
+    width: 160px;
+    height: 50px;
+    color: rgb(9, 9, 9);
+    border: solid 2px #9f4103;
+    border-radius: 20px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.d:hover 
+{
+    background-color: #f4b323;
+    transform: scale(1.05);
+  }
+.e
+{
+    width: 160px;
+    height: 50px;
+    color: black;
+    border: solid 2px #9f4103;
+    border-radius: 20px;
+    position: absolute;
+    top: 25%;
+    left: 48%;
+    cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+}
+    .e:hover 
+    {
+        background-color: #f4b323;
+        transform: scale(1.05);
+      }
+.f
+{
+ position: absolute;
+ top: 0%;
+ right:0%;  
+ }
+.g
+{
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+}
+.h
+{
+    width: 100%;
+    height: 6cqi00px; 
+    position: relative;
+    border: solid red;
+}
+.i
+{
+    width: 100%;
+    height: 600px;
+}
+.j 
+{
+    color: rgb(247, 242, 242);
+    position: absolute;
+    left: 5%;
+    top: 35%;
+}
+.k
+{
+    color: #f4b323;
+    position: absolute;
+    left: 5%;
+    top: 45%;
+}
+.l 
+{
+    color: white;
+    position: absolute;
+    left: 5%;
+    top: 60%;
+}
+.m 
+{
+        width: 150px;
+        height: 45px;
+        color: white;
+        background: transparent;
+        border: brown solid 2px;
+        border-radius: 20px;
+        position: absolute;
+        top: 75%;
+        left: 5%;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.m:hover
+{
+      background-color: #f4b323;
+      transform: scale(1.05);
+    }
+    .n
+    {
+        width: 150px;
+        height: 45px;
+        color: white;
+        background: transparent;
+        border: white solid 2px;
+        border-radius: 20px;
+        position: absolute;
+        top: 75%;
+        left: 17%;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.n:hover
+{
+      background-color: #f4b323;
+      transform: scale(1.05);
+ }
+ .aaaa
+ {
+    width: 100%px;
+    height: 600px; 
+    position: relative;
+    margin-top: 30px;
+    border: solid red;
+ }
+ .o 
+ {
+    position: absolute;
+    width: 25%;
+    height: 550x;
+    top: 5%;
+    left: 10%;
+ }
+ .q
+ {
+    background: black;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    right: 5%;
+ }
+ .r 
+ {
+    color:#f4b323 ;
+    
+ }
+ .s
+ {
+    color: rgb(246, 242, 242);
+ }
+ .p
+    {
+        width: 125px;
+        height: 45px;
+        color: rgb(243, 236, 236);
+        background: transparent;
+        border: brown solid 2px;
+        border-radius: 20px;
+        
+        
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.p:hover
+{
+      background-color: #f4b323;
+      transform: scale(1.05);
+ }
+ .t 
+ {
+    position: absolute;
+    width: 25%;
+    height: 250px;
+    top: 5%;
+    left: 37%;
+ }
+ .u
+ {
+    background: black;
+    color: white;
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+ }
+ 
+.w
+{
+    position: absolute;
+    width: 25%;
+    height: 250px;
+    top: 5%;
+    left: 64%;
+}
+.x
+{
+    background: black;
+    color: white;
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+ }
+ .y
+ {
+    position: absolute;
+    width: 25%;
+    height: 250px;
+    top: 52%;
+    left: 37%;
+ }
+ .z
+ {
+    position: absolute;
+    width: 25%;
+    height: 250px;
+    top: 52%;
+    left: 64%;
+ }
+ .aa
+ {
+    width: 100%px;
+    height: 600px; 
+    position: relative;
+    border: solid red;
+ }
+ .ab
+ {
+    position: absolute;
+    width: 25%;
+    height: 250px;
+    top: 5%;
+    left: 10%;
+ }
+ .ac
+ {
+    position: absolute;
+    width: 25%;
+    height: 250px;
+    top: 5%;
+    left: 37%;
+ }
+ .ad
+ {
+    position: absolute;
+    width: 25%;
+    height: 550px;
+    top: 5%;
+    right: 10%;
+ }
+ .xa
+{
+    background: rgb(243, 240, 240);
+    position: absolute;
+    right: 5%;
+    left: 5%;
+    top: 5%;
+ }
+ .xb 
+ {
+    color: #9f4103;
+ }
+ .xc
+ {
+    color: black;
+ }
+ .xd
+    {
+        width: 125px;
+        height: 45px;
+        color: rgb(13, 8, 8);
+        background: transparent;
+        border: brown solid 2px;
+        border-radius: 20px;
+        
+        
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.xd:hover
+{
+      background-color: #f4b323;
+      transform: scale(1.05);
+ }
+ .ae
+ {
+    
+        position: absolute;
+        width: 25%;
+        height: 250px;
+        top: 55%;
+        left: 10%;
+      
+ }
+ .af
+ {
+    position: absolute;
+    width: 25%;
+    height: 250px;
+    top: 55%;
+    left: 37%;
+ }
+ .ag 
+ {
+    width: 100%px;
+    height: 500px; 
+    position: relative;
+    border: solid red;
+ }
+ .aaf
+ {
+   
+    width: 100%;
+    height: 500px;
+ }
+ .ah
+ {
+    position: absolute;
+    left: 40%;
+    top: 25%;
+   color: white;
+ }
+ .ak
+ {
+    color: #f4b323;
+    position: absolute;
+    top: 35%;
+    left: 46%;
+ }
+ .aka
+ {
+    color: #f4b323;
+    position: absolute;
+    top: 42%;
+    left: 42%;
+ }
+ .na
+ {
+    width: 150px;
+    height: 45px;
+    color: white;
+    background: transparent;
+    border: white solid 2px;
+    border-radius: 20px;
+    position: absolute;
+    top: 58%;
+    left: 40%;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+ }
+ .na:hover 
+    {
+        background-color: #f4b323;
+        transform: scale(1.05);
+      }
+ .ma
+ { 
+    width: 150px;
+    height: 45px;
+    color: white;
+    background: transparent;
+    border: brown solid 2px;
+    border-radius: 20px;
+    position: absolute;
+    top: 58%;
+    left: 52%;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+ }
+ .ma:hover 
+    {
+        background-color: #f4b323;
+        transform: scale(1.05);
+    }
+    .al
+    {
+        width: 100%px;
+        height: 100px; 
+        margin-top: 50px;
+        position: relative; 
+        border: solid red;  
+    }
+.am
+    {
+    position: absolute;
+    color: #9f4103;
+    top: 0%;
+    left: 45%;
+    }
+.an 
+{
+position: absolute;
+top: 50%;
+left: 38%;
+}
+.ao
+{
+    position: absolute;
+    left: 48%;
+    top: 80%;
+}
+.ap 
+{
+    width: 100%;
+    height: 450px;
+    position: relative;
+    margin-top: 25px;
+    border: solid red;
+}
+.aq
+{
+    width: 250px;
+    height: 400px;
+    border: solid red;
+    position: absolute;
+    left: 10%;
+    padding: 20px;
+}
+.ar 
+{
+    width: 250px;
+    height: 400px;
+    border: solid red;
+    position: absolute;
+    left: 30%;
+    padding: 20px;
+}
+.as
+{
+    width: 250px;
+    height: 400px;
+    border: solid red;
+    position: absolute;
+    left: 50%;
+    padding: 20px;
+}  
+.at
+{
+    width: 250px;
+    height: 400px;
+    border: solid red;
+    position: absolute;
+    left: 70%;
+    padding: 20px; 
+} 
+.au
+{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    border: solid red;
+}
+.av 
+{
+    width: 35%;
+    height: 80%;
+    position: absolute;
+    top: 5%;
+}
+.aw
+{
+    width: 20%;
+    height: 38%;
+    position: absolute;
+    top: 5%;
+    left: 37%;
+}
+.ax 
+{
+    width: 20%;
+    height: 38%;
+    position: absolute;
+    top: 47%;
+    left: 37%;
+}
+.ay 
+{
+    width: 20%;
+    height: 80%;
+    position: absolute;
+    top: 5%;
+    left: 59%;
+}
+.az
+{
+    width: 20%;
+    height: 38%;
+    position: absolute;
+    top: 5%;
+   right: 0%;
+}
+.aab
+{
+    width: 20%;
+    height: 38%;
+    position: absolute;
+    top: 47%;
+   right: 0%;
+}
+.aah
+{
+    width: 100%;
+    height: 150px;
+    position: relative;
+    border: solid red;  
+}
+.aai
+{
+    position: absolute;
+    color: #9f4103;
+    top: 10%;
+    left: 45%;
+}
+.aaj
+{
+    position: absolute;
+    top: 50%;
+    left: 38%;
+}
+.aak 
+{
+    position: absolute;
+    top: 80%;
+    left: 47%;
+}
+.aal
+{
+    width: 100%;
+    height: 350px;
+    position: relative;
+    border: solid red;    
+}
+.aam
+{
+    position: absolute;
+    width: 30%;
+    height: 80%;
+    top: 5%;
+    left: 15%;
+}
+.aan
+{
+    position: absolute;
+    top: 12%;
+    left: 48%;
+}
+
+  h1 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  .meta {
+    display: flex;
+    align-items: center;
+    font-size: 1em;
+    color: #333;
+  }
+
+  .meta span {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+
+  .meta i {
+    margin-right: 6px;
+    color: #a4501e;
+  }
+
+  .meta .divider {
+    margin: 0 10px;
+    color: #888;
+  }
+  .aao
+  {
+    position: absolute;
+    top: 35%;
+    left: 48%;
+  }
+  .aap
+  {
+    
+        width: 140px;
+        height: 50px;
+        border-radius: 20px;
+        position: absolute;
+        border: solid #9f4103;
+        top: 50%;
+        left: 48%;
+        cursor: pointer;
+          font-size: 16px;
+          transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+        .aap:hover 
+        {
+            background-color: #f4b323;
+            transform: scale(1.05);
+          }
+.aaq
+{
+    position: relative;
+    width: 100%;
+    height: 150px;
+    border: soid red;
+}
+.aar 
+{
+    position: absolute;
+    color: #a4501e;
+    top: 5%;
+    left: 40%;
+}
+.aas
+{
+    position: absolute;
+    color: black;
+    top: 40%;
+    left: 38%;
+}
+.aat
+{
+    position: absolute;
+    top: 60%;
+    left: 48%;
+}
+.aau
+{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    border: solid red;
+    background: #dcd9d9;
+}
+.aav 
+{
+    position: absolute;
+    width: 18%;
+    height: 40%;
+    top: 5%;
+    left: 10%;
+}
+.aaw
+{
+    position: absolute;
+    top: 50%;
+    left: 13%;
+}
+.aax
+{
+    position: absolute;
+    top: 58%;
+    left: 12%;
+}
+.aay
+  {
+    
+        width: 140px;
+        height: 50px;
+        border-radius: 20px;
+        position: absolute;
+        border: solid #9f4103;
+        top: 75%;
+        left: 14%;
+        cursor: pointer;
+          font-size: 16px;
+          transition: background-color 0.3s ease, transform 0.3s ease;
+ }
+.aay:hover 
+{ background-color: #f4b323;
+ transform: scale(1.05);
+}
+
+ .aaz
+{
+    position: absolute;
+    width: 18%;
+    height: 40%;
+    top: 5%;
+    left: 30%;
+}
+
+.aaab
+{
+position: absolute;
+top: 50%;
+left: 33%;
+}
+
+.aaac
+{
+position: absolute;
+top: 58%;
+left: 32%;
+}
+
+.aaad
+{
+              
+width: 140px;
+height: 50px;
+border-radius: 20px;
+position: absolute;
+border: solid #9f4103;
+top: 75%;
+left: 33%;
+cursor: pointer;
+font-size: 16px;
+transition: background-color 0.3s ease, transform 0.3s ease;
+ }
+
+ .aaad:hover 
+{
+background-color: #f4b323;
+transform: scale(1.05)
+}   
+                   
+.aaae
+ {
+position: absolute;
+width: 18%;
+height: 40%;
+top: 5%;
+left: 50%;
+}
+
+.aaaf
+ {
+position: absolute;
+top: 50%;
+left: 53%;
+}
+
+.aaag
+{
+position: absolute;
+top: 58%;
+left: 52%;
+}
+
+.aaah
+{
+                       
+width: 140px;
+height: 50px;
+border-radius: 20px;
+position: absolute;
+border: solid #9f4103;
+top: 75%;
+left: 53%;
+cursor: pointer;
+font-size: 16px;
+transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.aaah:hover 
+{
+background-color: #f4b323;
+transform: scale(1.05);
+ }  
+
+ .aaai
+{
+position: absolute;
+width: 18%;
+height: 40%;
+top: 5%;
+left: 70%;
+}
+
+.aaaj
+{
+position: absolute;
+top: 50%;
+left: 73%;
+}
+
+.aaak
+{
+ position: absolute;
+top: 58%;
+left: 72%;
+}
+
+.aaal
+ {
+                                 
+ width: 140px;
+height: 50px;
+border-radius: 20px;
+position: absolute;
+border: solid #9f4103;
+top: 75%;
+left: 73%;
+cursor: pointer;
+font-size: 16px;
+transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.aaal:hover 
+ {
+ background-color: #f4b323;
+transform: scale(1.05);
+} 
+.aaam
+{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    border: solid red;
+} 
+.aaan
+{
+    position: absolute;
+    width: 22%;
+    height: 50%;
+    border: solid black;
+    border-radius: 10px;
+    top: 25%;
+    left: 15%;
+}   
+.aaao 
+{
+    position: absolute;
+    color: #9f4103;
+    top: 30%;
+    left: 22%;
+} 
+.aaap
+{
+    position: absolute;
+    top: 50%;
+    left: 12%;
+} 
+.aaaq
+{
+    position: absolute;
+    border-radius: 50%;
+    background: #9f4103;
+   top: -17%;
+   left: 37%;
+   width: 30%;
+   height: 40%;
+   cursor: pointer;
+   font-size: 16px;
+   transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.aaaq:hover 
+ {
+ background-color: #f4b323;
+transform: scale(1.05);
+}
+.aaar
+{
+    position: absolute;
+    width: 22%;
+    height: 50%;
+    border: solid black;
+    border-radius: 10px;
+    top: 25%;
+    left: 40%;
+}   
+.aaas
+{
+    position: absolute;
+    width: 22%;
+    height: 50%;
+    border: solid black;
+    border-radius: 10px;
+    top: 25%;
+    left: 65%;
+}
+.aaat
+{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    border: solid red;
+    background: rgb(35, 27, 27);
+   }
+.aaax
+{
+    position: absolute;
+    color: #f4b323;
+    top: 10%;
+    left: 12%;
+} 
+.aaay
+{
+    position: absolute;
+    color: white;
+    top: 25%;
+    left: 12%;
+    margin: 5px;
+} 
+.aaaw
+{
+    position: absolute;
+    color: #f4b323;
+    top: 65%;
+    left: 12%;
+} 
+.aaaad
+{
+    position: absolute;
+    color: #f4b323;
+    top: 10%;
+    left: 31%;
+} 
+.aaaab
+{
+    position: absolute;
+    color: white;
+    top: 25%;
+    left: 31%;
+    margin: 5px;
+} 
+.aaaac
+{
+    position: absolute;
+    color: #f4b323;
+    top: 10%;
+    left: 41%;
+} 
+.aaaae
+{
+    position: absolute;
+    color: white;
+    top: 25%;
+    left: 41%;
+    margin: 5px;
+   
+} 
+.aaaaf
+{
+    position: absolute;
+    color: #f4b323;
+    top: 10%;
+    left: 51%;  
+}
+.aaaag
+{
+    position: absolute;
+    color: white;
+    top: 25%;
+    left: 51%;
+    margin: 5px;
+}
+.aaaah
+{
+    position: absolute;
+    color: #f4b323;
+    top: 10%;
+    left: 61%;   
+}
+.aaaai
+{
+    position: absolute;
+    color: white;
+    top: 25%;
+    left: 61%;
+    margin: 5px;  
+}
+.aaaaj
+{
+    position: absolute;
+    color: white;
+    top: 75%;
+    left: 12%;
+   }
+.aaaak
+{
+    position: absolute;
+    color: white;
+    top: 75%;
+    right: 10%;
+    }
